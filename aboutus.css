@@ -16,33 +16,25 @@ html {
       ;
   }
   nav {
-      float: left;
+      width:125px;
+      display: inline-block;
+      vertical-align: top;
   }
   nav ul {
-      padding: ;
-      float: left;
-      border-bottom: ;
-      list-style-type: none;
-  }
-  nav li {
-      float: left;
-  }
-  nav li a {
-      display: block;
-      height: 25px;
-      padding: 12px 18px 8px 18px;
-      vertical-align: middle;
+    border-radius: 10px;
+    background-color: #BADA55
+    list-style-type: none;
   }
   a {
       color: ;
   }
   section {
-      width: 73%;
+    vertical-align: text-top;
+      width: 40%;
       display: inline-block;
-      float: left;
   }
   aside {
-      width: 17%;
+      width: 125px;
       display: inline-block;
       background-color:;
       padding:;
